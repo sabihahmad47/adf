@@ -6,8 +6,8 @@
 		"type": "FileServer",
 		"typeProperties": {
 			"host": "\\\\SABIHLAPTOP\\SMBTest",
-			"userId": "sabihlaptop\\sabih",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJmZTZmNjRjZS0wMGRkLTQ0M2MtYTkyNS1iZTU2OWEzYTFjZWEiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"userId": "sabihahmadofficial47@gmail.com",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJmYzc2YzBmZC01NGFiLTQwNDItOWY5Mi1hZmE1MGMyZjJjNmIiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "Self-Hosted-IR",
