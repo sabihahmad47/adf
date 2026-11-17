@@ -1,0 +1,17 @@
+{
+	"name": "FileServer1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "\\\\SABIHLAPTOP\\SMBTest",
+			"userId": "sabihlaptop\\sabih",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJmZTZmNjRjZS0wMGRkLTQ0M2MtYTkyNS1iZTU2OWEzYTFjZWEiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "Self-Hosted-IR",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
